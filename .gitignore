@@ -1,0 +1,13 @@
+# Unreal Engine build/IDE junk
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+
+# Local generated files
+*.log

@@ -1,0 +1,12 @@
+{
+  "EngineAssociation": "5.4",
+  "Category": "",
+  "Description": "Max Payne 2 remake skeleton in Unreal Engine 5 (C++).",
+  "Modules": [
+    {
+      "Name": "MaxPayne2Unreal",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
